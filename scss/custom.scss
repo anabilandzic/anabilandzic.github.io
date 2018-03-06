@@ -1,0 +1,18 @@
+// Custom.scss
+// Option B: Include parts of Bootstrap
+
+// Colormind
+
+$cm-light-shade: #F3F4EC;
+$cm-light-accent: #A2A6C3;
+$cm-main-brand: #B852D1;
+$cm-dark-accent: #887284;
+$cm-dark-shade: #31385D;
+
+$white: $cm-light-shade;
+$dark: $cm-dark-shade;
+$light: $cm-light-shade;
+$jumbotron-bg: $cm-dark-shade;
+
+// Bootstrap and its default variables
+@import "../node_modules/bootstrap/scss/bootstrap";

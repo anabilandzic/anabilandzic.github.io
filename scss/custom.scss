@@ -17,5 +17,24 @@ $jumbotron-bg: $cm-dark-shade;
 $navbar-dark-hover-color: $cm-main-brand;
 $navbar-dark-active-color: $cm-main-brand;
 
+
+$height-footer: 60px;
+
+html {
+  min-height: 100%;
+  position: relative;
+  body {
+    margin-bottom: $height-footer;
+  }
+  footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: $height-footer;
+  }
+}
+
+
+
 // Bootstrap and its default variables
 @import "../node_modules/bootstrap/scss/bootstrap";

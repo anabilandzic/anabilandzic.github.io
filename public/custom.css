@@ -1,3 +1,14 @@
+html {
+  min-height: 100%;
+  position: relative; }
+  html body {
+    margin-bottom: 60px; }
+  html footer {
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    height: 60px; }
+
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors

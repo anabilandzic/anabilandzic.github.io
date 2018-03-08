@@ -14,5 +14,8 @@ $dark: $cm-dark-shade;
 $light: $cm-light-shade;
 $jumbotron-bg: $cm-dark-shade;
 
+$navbar-dark-hover-color: $cm-main-brand;
+$navbar-dark-active-color: $cm-main-brand;
+
 // Bootstrap and its default variables
 @import "../node_modules/bootstrap/scss/bootstrap";

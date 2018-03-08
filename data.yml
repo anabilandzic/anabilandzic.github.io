@@ -1,0 +1,7 @@
+{
+  "tours": [
+    {"image_source": "https://happytovisit.com/glib/3/Game-of-Thrones-Dubrovnik-Tour-1-1-17889.png", "name": "Game Of Thrones Tour", "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+    {"image_source": "http://www.layoverguide.com/wp-content/uploads/2011/04/Old-Town-Dubrovnik-Croatia.jpg", "name": "Old City Tour", "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+    {"image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg", "name": "Lokrum Island Tour", "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+  ]
+}

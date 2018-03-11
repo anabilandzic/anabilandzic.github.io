@@ -1,7 +1,7 @@
 # anabilandzic.github.io
 Personal website
 
-This is simple bootstrap static website. Do not edit any of html file but instead associated mustache files.
+This is simple bootstrap static website. Do not edit any of html files but instead associated mustache files.
 
 To change bootstrap parameters edit `scss/custom.scss`
 

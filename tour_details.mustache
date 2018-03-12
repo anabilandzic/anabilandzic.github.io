@@ -9,17 +9,26 @@
             <div class="post">
                 <h1 class="post-title">
                     {{name}}
-                    <br>
-                    <small class="text-muted">{{description}}</small>
                 </h1>
-                <small>Duration: {{duration}}</small>
+                <div class="row">
+                {{#images}}
+                    <div class="col-md-4">
+                        <div class="thumbnail">
+                            <img src="{{image_source}}" alt="Lights" style="width:100%">
+                        </div>
+                    </div>
+                {{/images}}
+                </div>
+
+                <small class="text-muted">Duration: {{duration}}</small>
                 <br>
-                <small>Location: {{location}}</small>
+                <small class="text-muted">Location: {{location}}</small>
                 <br>
-                <small>Accessibility: {{accessibility}}</small>
+                <small class="text-muted">Accessibility: {{accessibility}}</small>
                 <br>
-                <small>Notes: {{notes}}</small>
+                <small class="text-muted">Notes: {{notes}}</small>
                 <br><br>
+                <p><b>{{description}}</b></p>
                 <p>{{text}}</p>
             </div>
         </div>

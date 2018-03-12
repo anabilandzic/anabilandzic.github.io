@@ -7,12 +7,19 @@
     <main role="main">
         <div class="container py-5">
             <div class="post">
-                <h1 class="post-title">{{name}}</h1>
+                <h1 class="post-title">
+                    {{name}}
+                    <br>
+                    <small class="text-muted">{{description}}</small>
+                </h1>
                 <span class="post-date">Duration: {{duration}}</span>
+                <br>
                 <span class="post-date">Location: {{location}}</span>
+                <br>
                 <span class="post-date">Accessibility: {{accessibility}}</span>
+                <br>
                 <span class="post-date">Notes: {{notes}}</span>
-                <p><b>{{description}}</b></p>
+                <br>
                 <p>{{text}}</p>
             </div>
         </div>

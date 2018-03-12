@@ -3,26 +3,32 @@
     {"name": "GAME OF THRONES TOUR",
      "slug": "got",
      "image_source": "https://happytovisit.com/glib/3/Game-of-Thrones-Dubrovnik-Tour-1-1-17889.png", 
-     "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+     "description": "Welcome to King’s Landing dear travelers. The city is made brighter by your presence…
+Come with me on this tour to follow the footsteps of your favorite characters and discover the famous filming locations" },
+    
     {"name": "OLD TOWN WALKING TOUR", 
      "slug": "oldtown",
      "image_source": "http://www.layoverguide.com/wp-content/uploads/2011/04/Old-Town-Dubrovnik-Croatia.jpg",
-     "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+     "description": "Learn more about the 13 centuries long history of this small town of unique beauty known also as the Pearl of Adriatic" },
+    
     {"name": "DUBROVNIK TOP 3", 
      "slug": "top3",
      "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
-     "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+     "description": "Visit the highlights of Dubrovnik, get to Mount Srđ by cable car, walk the historical streets of the Old Town, climb the famous city walls…" },
+    
     {"name": "CITY WALLS HISTORICAL WALKING TOUR", 
      "slug": "historical",
      "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
-     "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+     "description": "Navigate the city walls with me and hear amazing historical facts about walls and the Old Town from a bird’s eye view" },
+    
     {"name": "OLD TOWN AND THE ISLAND OF LOKRUM", 
      "slug": "lokrum",
      "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
-     "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+     "description": "Start the tour in the Old town by learning some history and finish it on the beautiful island Lokrum" },
+    
     {"name": "MUSEUM TOUR",
      "slug": "museum",
      "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
-     "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." },
+     "description": "The rich history of the former city-state of Dubrovnik is hidden in the city’s museums and waits to be discovered by you" },
   ]
 }

@@ -8,7 +8,7 @@ Come with me on this tour to follow the footsteps of your favorite characters an
     
     {"name": "OLD TOWN WALKING TOUR", 
      "slug": "oldtown",
-     "image_source": "http://www.layoverguide.com/wp-content/uploads/2011/04/Old-Town-Dubrovnik-Croatia.jpg",
+     "image_source": "/public/images/oldtown.jpg",
      "description": "Learn more about the 13 centuries long history of this small town of unique beauty known also as the Pearl of Adriatic" },
     
     {"name": "DUBROVNIK TOP 3", 
@@ -18,17 +18,17 @@ Come with me on this tour to follow the footsteps of your favorite characters an
     
     {"name": "CITY WALLS HISTORICAL WALKING TOUR", 
      "slug": "historical",
-     "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
+     "image_source": "/public/images/historical.jpg",
      "description": "Navigate the city walls with me and hear amazing historical facts about walls and the Old Town from a bird’s eye view" },
     
     {"name": "OLD TOWN AND THE ISLAND OF LOKRUM", 
      "slug": "lokrum",
-     "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
+     "image_source": "/public/images/lokrum.jpg",
      "description": "Start the tour in the Old town by learning some history and finish it on the beautiful island Lokrum" },
     
     {"name": "MUSEUM TOUR",
      "slug": "museum",
-     "image_source": "http://www.journal.hr/wp-content/uploads/2017/08/unnamed-1-1.jpg",
+     "image_source": "/public/images/museum.jpg",
      "description": "The rich history of the former city-state of Dubrovnik is hidden in the city’s museums and waits to be discovered by you" },
   ]
 }

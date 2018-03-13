@@ -7,12 +7,12 @@
     <main role="main">
         <div class="container py-5">
             <div class="post">
-                <h1 class="post-title">
+                <h1 class="post-title text-center">
                     {{name}}
                 </h1>
-                <div class="row">
+                <div class="row pt-5">
                 {{#images}}
-                    <div class="col-md-4">
+                    <div class="col-md-6 pb-5">
                         <div class="thumbnail">
                             <img src="{{image_source}}" alt="Lights" style="width:100%">
                         </div>
@@ -20,13 +20,13 @@
                 {{/images}}
                 </div>
 
-                <small class="text-muted">Duration: {{duration}}</small>
+                <i class="text-muted">Duration: {{duration}}</i>
                 <br>
-                <small class="text-muted">Location: {{location}}</small>
+                <i class="text-muted">Location: {{location}}</i>
                 <br>
-                <small class="text-muted">Accessibility: {{accessibility}}</small>
+                <i class="text-muted">Accessibility: {{accessibility}}</i>
                 <br>
-                <small class="text-muted">Notes: {{notes}}</small>
+                <i class="text-muted">Notes: {{notes}}</i>
                 <br><br>
                 <p><b>{{description}}</b></p>
                 <p>{{{text}}}</p>

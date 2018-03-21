@@ -10,15 +10,6 @@
                 <h1 class="post-title text-center">
                     {{name}}
                 </h1>
-                <div class="row pt-5">
-                {{#images}}
-                    <div class="col-md-6 pb-5">
-                        <div class="thumbnail">
-                            <img src="{{image_source}}" alt="Lights" style="width:100%">
-                        </div>
-                    </div>
-                {{/images}}
-                </div>
 
                 <i class="text-muted">Duration: {{duration}}</i>
                 <br>
@@ -30,6 +21,16 @@
                 <br><br>
                 <p><b>{{description}}</b></p>
                 <p>{{{text}}}</p>
+
+                <div class="row pt-5">
+                {{#images}}
+                    <div class="col-md-6 pb-5">
+                        <div class="thumbnail">
+                            <img src="{{image_source}}" style="width:100%">
+                        </div>
+                    </div>
+                {{/images}}
+                </div>
             </div>
         </div>
     </main>

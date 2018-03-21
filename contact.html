@@ -77,5 +77,12 @@
             <p>Ana Bilandzic Cavar | All Rights Reserved &copy; 2018</p>
         </div>
     </footer>
+    
+    <script type="text/javascript">
+    $(document).ready(function() {
+      $('li.active').removeClass('active');
+      $('a[href="' + location.pathname + '"]').closest('li').addClass('active'); 
+    });
+    </script>
   </body>
 </html>

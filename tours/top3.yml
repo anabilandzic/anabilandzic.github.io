@@ -6,7 +6,8 @@
  "notes": "It is highly recommended to bring comfortable shoes, a bottle of water, and casual dress",
  "text": "Get the best of Dubrovnik in this 4-hour long tour!  Enjoy in the mix of history, stunning panoramic view over the Old town and islands and in the cold beer or ice cream on the city walls.
 If you would prefer to change the combination, visit two instead of three locations, let me know and we can arrange it.",
- "images": [ {"image_source": "/public/images/top3/2.jpg"}, 
+ "images": [ {"image_source": "/public/images/top3/1.jpg"},
+             {"image_source": "/public/images/top3/2.jpg"}, 
              {"image_source": "/public/images/top3/3.jpg"},
              {"image_source": "/public/images/top3/4.jpg"},
              {"image_source": "/public/images/top3/5.jpg"},

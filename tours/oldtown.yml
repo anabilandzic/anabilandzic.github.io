@@ -2,7 +2,7 @@
  "description": "Learn more about the 13 centuries long history of this small town of unique beauty known also as the Pearl of Adriatic",
  "duration": "Approximately 2 hours", 
  "location": "Dubrovnik Old Town", 
- "accessibility": "Wheelchair accessible (except for St. Lawrence Fortress)", 
+ "accessibility": "Wheelchair accessible", 
  "notes": "It is highly recommended to bring comfortable shoes, a bottle of water, and casual dress",
  "text": "The tour starts outside the city walls, just a few steps from the main entrance to the Old Town, where I will introduce you to the rich history of Dubrovnik. Once we enter the Old Town, we will be at the beginning of the famous Stradun Street, where we will see the large Onofrio’s Fountain from 15th century, Franciscan Monastery with one of the oldest pharmacies in Europe and the main entrance to the famous Dubrovnik city walls. Soon afterwards, we will enter the small hidden streets to avoid the crowds. One of these small streets hides a former orphanage from 15th century with a touching history and inscription above the main entrance. 
  I will also show you the proof that children in Dubrovnik were playing some sort of football already in 16th century. 
@@ -10,9 +10,8 @@
  "images": [ {"image_source": "/public/images/oldtown/1.jpg"},
              {"image_source": "/public/images/oldtown/2.jpg"}, 
              {"image_source": "/public/images/oldtown/3.jpg"},
-             {"image_source": "/public/images/oldtown/4.jpg"},
-             {"image_source": "/public/images/oldtown/5.jpg"},
              {"image_source": "/public/images/oldtown/6.jpg"},
              {"image_source": "/public/images/oldtown/7.jpg"}, 
              {"image_source": "/public/images/oldtown/8.jpg"},
-             {"image_source": "/public/images/oldtown/9.jpg"}]}
+             {"image_source": "/public/images/oldtown/9.jpg",
+              "image_source": "/public/images/oldtown/11.jpg"}]}

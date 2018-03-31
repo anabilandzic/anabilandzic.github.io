@@ -16,6 +16,9 @@ html {
 .nav-item, .card-title {
   font-weight: 700; }
 
+.card-body {
+  margin-top: 0.5rem; }
+
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors

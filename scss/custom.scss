@@ -41,6 +41,10 @@ html {
   font-size: 6rem;
 }
 
+.nav-item, .card-title {
+  font-family: 'Oswald' !important;
+}
+
 $navbar-dark-hover-color:           red;
 $navbar-dark-active-color:          blue;
 $navbar-dark-disabled-color:        green;

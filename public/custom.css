@@ -13,6 +13,9 @@ html {
   font-family: 'Tangerine' !important;
   font-size: 6rem; }
 
+.nav-item, .card-title {
+  font-family: 'Oswald' !important; }
+
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors

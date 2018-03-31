@@ -9,6 +9,10 @@ html {
     position: absolute;
     height: 60px; }
 
+.page-title {
+  font-family: 'Tangerine';
+  font-size: 6rem; }
+
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors

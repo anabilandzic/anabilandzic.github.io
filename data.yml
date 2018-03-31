@@ -1,15 +1,15 @@
 {
   "tours": [
+    {"name": "OLD TOWN WALKING TOUR", 
+     "slug": "oldtown",
+     "image_source": "/public/images/oldtown/10.jpg",
+     "description": "Learn more about the 13 centuries long history of this small town of unique beauty known also as the Pearl of Adriatic" },
+
     {"name": "GAME OF THRONES TOUR",
      "slug": "got",
      "image_source": "/public/images/got/9.jpg", 
      "description": "Welcome to King’s Landing dear travelers. The city is made brighter by your presence…
 Come with me on this tour to follow the footsteps of your favorite characters and discover the famous filming locations" },
-    
-    {"name": "OLD TOWN WALKING TOUR", 
-     "slug": "oldtown",
-     "image_source": "/public/images/oldtown/10.jpg",
-     "description": "Learn more about the 13 centuries long history of this small town of unique beauty known also as the Pearl of Adriatic" },
     
     {"name": "DUBROVNIK TOP 3", 
      "slug": "top3",

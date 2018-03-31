@@ -14,7 +14,7 @@ html {
   font-size: 6rem; }
 
 .nav-item, .card-title {
-  font-family: 'Oswald' !important; }
+  font-weight: 700; }
 
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)

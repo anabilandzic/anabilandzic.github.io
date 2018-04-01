@@ -38,7 +38,11 @@ html {
 
 .page-title {
   font-family: 'Tangerine' !important;
-  font-size: 6rem;
+  font-size: 8.5vw;
+}
+
+.page-title img {
+  width: 10%;  
 }
 
 .nav-item, .card-title {

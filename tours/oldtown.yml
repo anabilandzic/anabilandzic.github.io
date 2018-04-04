@@ -10,8 +10,15 @@
  "images": [ {"image_source": "/public/images/oldtown/1.jpg"},
              {"image_source": "/public/images/oldtown/2.jpg"}, 
              {"image_source": "/public/images/oldtown/3.jpg"},
+             {"image_source": "/public/images/oldtown/4.jpg"},
+             {"image_source": "/public/images/oldtown/5.jpg"},
              {"image_source": "/public/images/oldtown/6.jpg"},
              {"image_source": "/public/images/oldtown/7.jpg"}, 
              {"image_source": "/public/images/oldtown/8.jpg"},
-             {"image_source": "/public/images/oldtown/9.jpg",
-              "image_source": "/public/images/oldtown/11.jpg"}]}
+             {"image_source": "/public/images/oldtown/9.jpg"},
+             {"image_source": "/public/images/oldtown/11.jpg"},
+             {"image_source": "/public/images/oldtown/12.jpg"},
+             {"image_source": "/public/images/oldtown/13.jpg"},
+             {"image_source": "/public/images/oldtown/14.jpg"},
+             {"image_source": "/public/images/oldtown/15.jpg"},
+             {"image_source": "/public/images/oldtown/16.jpg"}]}
